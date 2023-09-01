@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Users\dfraj\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for SolarTracker.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17.06.23
+Time:       12:11
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                     Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                     
+C1         "Kemet C315C103M5R5TA"      TopLayer PCB-5q3b1ntq00bqadu474q8-1 1861.220      1155.512      270      "Capacitor, Ceramic, 10000pF, 50VDC, 20-% Tol, 20+% Tol, X7R-TC Code, -15, 15%-TC"              
+U2         "LM358 K"                   TopLayer PCB-sh3andz6vjobp3klq69x-1 1574.803      905.512       0        "SERVAL LM358"                                                                                  
+R4         "KOA Speer RK73H2ATTD1002F" TopLayer RESC2013X60X30ML20T20      1197.835      814.961       270      "Res Thick Film 0805 10K Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Punched Paper T/R" 
+R2         "Panasonic ERA6ARW102V"     TopLayer PCB-set4piecw3gbgqce32cc-1 1496.063      1338.583      90       "Res Thin Film 0805 1K Ohm 0.05% 1/8W ±10ppm/°C Molded SMD SMD Punched Carrier T/R"             
+C2         K50-35                      TopLayer PCB-i9faancde6oziqb23cfe-1 540.551       748.032       0        ee                                                                                              
+R1         "Bourns PTV09A-4020F-B103"  TopLayer Imperial_Bourns_PTV09A     1574.803      413.681       180      "Linear Potentiometer w/ 6 mm Dia. Shaft; 10kOhm; +/-20%; 0.05W; Thru Hole"                     
+D1         1N4001RLG                   TopLayer PCB-z2ypi7zr74mzpyjelpsh-1 984.255       1141.732      180      "Standard Recovery Rectifier, 2-Pin Axial_Lead, Pb-Free, Tape and Reel"                         
+D2         1N4001RLG                   TopLayer PCB-z2ypi7zr74mzpyjelpsh-1 2165.351      1299.213      0        "Standard Recovery Rectifier, 2-Pin Axial_Lead, Pb-Free, Tape and Reel"                         
+D3         1N4001RLG                   TopLayer PCB-z2ypi7zr74mzpyjelpsh-1 2165.358      1102.362      180      "Standard Recovery Rectifier, 2-Pin Axial_Lead, Pb-Free, Tape and Reel"                         
+D4         1N4001RLG                   TopLayer PCB-z2ypi7zr74mzpyjelpsh-1 984.249       1299.213      0        "Standard Recovery Rectifier, 2-Pin Axial_Lead, Pb-Free, Tape and Reel"                         
+M          282841-2                    TopLayer PCB-ubx9hfa8u75k59449c6l-1 2540.945      393.701       0        "Conn Terminal Block 2 POS 5.08mm Solder ST Thru-Hole 17.5A/Contact"                            
+Vin        282841-2                    TopLayer PCB-ubx9hfa8u75k59449c6l-1 572.441       393.701       0        "Conn Terminal Block 2 POS 5.08mm Solder ST Thru-Hole 17.5A/Contact"                            
+LDR1       ""                          TopLayer PR-2.8-4.2X4.9MM           393.701       1456.252      180      "Ldr, 0.5mohm, 80mw, Series Vt900"                                                              
+LDR2       ""                          TopLayer PR-2.8-4.2X4.9MM           2755.905      1456.252      180      "Ldr, 0.5mohm, 80mw, Series Vt900"                                                              
+Q1         BC547B                      TopLayer ONSC-TO-92-3-29-11         1771.653      1574.803      270      "Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Bulk Box"                                      
+Q2         BC547B                      TopLayer ONSC-TO-92-3-29-11         1377.953      1574.803      270      "Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Bulk Box"                                      
+Q3         BC557BTA                    TopLayer PCB-bfblt0ig5mu8pnjqgl0u-1 2165.354      1574.803      270      "Trans GP BJT PNP 45V 0.1A 3-Pin TO-92 Ammo"                                                    
+Q4         BC557BTA                    TopLayer PCB-bfblt0ig5mu8pnjqgl0u-1 984.252       1574.803      270      "Trans GP BJT PNP 45V 0.1A 3-Pin TO-92 Ammo"                                                    
+R3         "Panasonic ERA6ARW102V"     TopLayer PCB-set4piecw3gbgqce32cc-1 1692.913      1338.583      270      "Res Thin Film 0805 1K Ohm 0.05% 1/8W ±10ppm/°C Molded SMD SMD Punched Carrier T/R"             
+R5         "KOA Speer RK73H2ATTD1002F" TopLayer RESC2013X60X30ML20T20      1967.520      799.212       90       "Res Thick Film 0805 10K Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Punched Paper T/R" 

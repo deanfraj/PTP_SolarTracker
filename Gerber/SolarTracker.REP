@@ -1,0 +1,417 @@
+*************************************************************
+FileName = SolarTracker.GBR
+AutoAperture = True
+*************************************************************
+Generating : Multi-Layer
+      File : SolarTracker.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : SolarTracker.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Test Points Bottom
+      File : SolarTracker.GM20
+
+    Adding Layer      : Test Points Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Test Points Top
+      File : SolarTracker.GM19
+
+    Adding Layer      : Test Points Top
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Bottom
+      File : SolarTracker.GM16
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Top
+      File : SolarTracker.GM15
+
+    Adding Layer      : Courtyard Top
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : 3D Bottom
+      File : SolarTracker.GM14
+
+    Adding Layer      : 3D Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : 3D Top
+      File : SolarTracker.GM13
+
+    Adding Layer      : 3D Top
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Dimensions Bottom
+      File : SolarTracker.GM12
+
+    Adding Layer      : Dimensions Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dimensions Top
+      File : SolarTracker.GM11
+
+    Adding Layer      : Dimensions Top
+
+
+Used DCodes :
+    D10
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Assembly Bottom
+      File : SolarTracker.GM9
+
+    Adding Layer      : Assembly Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : SolarTracker.GM8
+
+    Adding Layer      : Assembly Top
+
+
+Used DCodes :
+    D10
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Assembly Text Bottom
+      File : SolarTracker.GM7
+
+    Adding Layer      : Assembly Text Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Assembly Text Top
+      File : SolarTracker.GM6
+
+    Adding Layer      : Assembly Text Top
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : SolarTracker.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : SolarTracker.GM2
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SolarTracker.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SolarTracker.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SolarTracker.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SolarTracker.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SolarTracker.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SolarTracker.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : SolarTracker.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D37
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : SolarTracker.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : SolarTracker.GM1
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : SolarTracker.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SolarTracker.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SolarTracker.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D57
+*************************************************************
+
